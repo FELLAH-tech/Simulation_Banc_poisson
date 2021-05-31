@@ -1,6 +1,6 @@
 # Simulation_Banc_poisson
 
-Réalisation D'une simulation pour modéliser un mouvement aléatoire d'un groupe de poisson : 
+Réalisation des simulations pour modéliser un mouvement aléatoire d'un groupe de poisson : 
 
 
 ## Descritpion du projet
