@@ -12,6 +12,7 @@ interactions engendrent des dynamiques collectives complexes. Ainsi, pour
 pluridisciplinaire combinant à la fois mathématiques appliquées et physique
 statistique, ce qui se manifeste par la diversité des modèles abordés dans notre
 étude.
+
 Ces modèles ont prouvé qu'il n'est pas nécessaire qu'un chef dirige les autres
 poissons dans quelle direction ils doivent nager et à quelle vitesse. Chaque
 individu reconnait cela par lui-même, uniquement en observant ses voisins les
@@ -32,10 +33,10 @@ en effet vers la position moyenne occupée par les poissons. On peut meme
 parler de la notion de Flocking , un phénomène au cours duquel le groupe des
 poissons s’organise pour former un ensemble ayant un mouvement
 globalement cohérent et une direction centralisée .
+
 Au début, on s’intéressera au modèle individu-centré (IBM) basé
 essentiellement sur des notions de la Physique statistique. Afin de préparer la
 solution numérique de notre problème, nous devons d’abord discrétiser les
-
 équations de mouvements proposées par Mr. Letuvee et Mr. Rohmer [3]. Après,
 pour atteindre notre modèle final, on utilisera plusieurs tests sur des modèles
 intermédiaires. Ainsi on va s’intéresser au début à l’étude de mouvements de
@@ -44,6 +45,7 @@ essayera de modifier ou ajouter des paramètres nécessaires influençant sur le
 mouvement pour garantir sa convergence en s’inspirant de [2] afin de respecter
 les règles citées par [1] et obtenir ainsi un modèle plus réaliste. Puis on va
 généraliser notre simulation pour N Boïds.
+
 Ensuite, on étudiera deux modèles mathématiques qui décrivent chaque
 poisson étudiée de la manière suivante : Un individu i ∈ {1,......N} décrit
 comme une particule massique, située au temps t ⩾ 0 à la position (xi,yi) et se
